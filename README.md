@@ -1,2 +1,2 @@
 # test2-repo
-my first provate repo
+my first private repo
